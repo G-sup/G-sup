@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
+
+
 <div align=center>  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-sup&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-
-[![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
