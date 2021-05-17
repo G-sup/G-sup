@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-[![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
+[![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
 
 
