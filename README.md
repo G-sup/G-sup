@@ -28,14 +28,17 @@ Here are some ideas to get you started:
 
 
 
+![KakaoTalk_20210528_115248526](https://user-images.githubusercontent.com/76672819/119936272-db144a00-bfc3-11eb-87d9-ae914c00d679.gif)
+
+![KakaoTalk_20210528_115248526_01](https://user-images.githubusercontent.com/76672819/119936392-10209c80-bfc4-11eb-9f51-54b88fa71098.gif)
+
+![KakaoTalk_20210528_144548333](https://user-images.githubusercontent.com/76672819/119936368-05fe9e00-bfc4-11eb-9a92-1735e792db69.gif)
+
+
 
 [![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
-
-
-
-![KakaoTalk_20210528_115248526](https://user-images.githubusercontent.com/76672819/119936272-db144a00-bfc3-11eb-87d9-ae914c00d679.gif)
 
 
 
