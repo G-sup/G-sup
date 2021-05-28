@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
 
 
+
+![KakaoTalk_20210528_115248526](https://user-images.githubusercontent.com/76672819/119936272-db144a00-bfc3-11eb-87d9-ae914c00d679.gif)
+
+
+
+
 <div align=center>  
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-sup&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
