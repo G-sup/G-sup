@@ -33,19 +33,20 @@ Here are some ideas to get you started:
 
 
 # Projetct
-
+## movie to anime Projetct
 ### White - Box - Cartoonize GAN
 ![KakaoTalk_20210528_115248526_01](https://user-images.githubusercontent.com/76672819/119936392-10209c80-bfc4-11eb-9f51-54b88fa71098.gif)
 
 ### SuperResolution
 ![KakaoTalk_20210528_144548333](https://user-images.githubusercontent.com/76672819/119936368-05fe9e00-bfc4-11eb-9a92-1735e792db69.gif)
 
+## Animeface generate
 ### DCGAN
 ![p1f5cs9jpu65m1r10jph5d71nc4-15](https://user-images.githubusercontent.com/76672819/117760403-87360100-b260-11eb-9ac3-81d78bd3a2b4.jpg)
 
 #### Tensorflow Certificate
 [![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
-#### Contact
+#### Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
 
 
