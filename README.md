@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 ### DCGAN
 ![p1f5cs9jpu65m1r10jph5d71nc4-15](https://user-images.githubusercontent.com/76672819/117760403-87360100-b260-11eb-9ac3-81d78bd3a2b4.jpg)
 
-
+#### Tensorflow Certificate
 [![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
-
+#### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisup1994@gmail.com)](mailto:jisup1994@gmail.com)
 
 
