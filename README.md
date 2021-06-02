@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 # Projetct
 
- White - Box - Cartoonize GAN
+###White - Box - Cartoonize GAN
 ![KakaoTalk_20210528_115248526_01](https://user-images.githubusercontent.com/76672819/119936392-10209c80-bfc4-11eb-9f51-54b88fa71098.gif)
- SuperResolution
+###SuperResolution
 ![KakaoTalk_20210528_144548333](https://user-images.githubusercontent.com/76672819/119936368-05fe9e00-bfc4-11eb-9a92-1735e792db69.gif)
- DCGAN
+###DCGAN
 ![p1f5cs9jpu65m1r10jph5d71nc4-15](https://user-images.githubusercontent.com/76672819/117760403-87360100-b260-11eb-9ac3-81d78bd3a2b4.jpg)
 
 
