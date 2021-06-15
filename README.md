@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 ![KakaoTalk_20210528_144548333](https://user-images.githubusercontent.com/76672819/119936368-05fe9e00-bfc4-11eb-9a92-1735e792db69.gif)
 
 ### 
-![KakaoTalk_20210615_145554833](https://user-images.githubusercontent.com/76672819/122010137-c7574900-cdf5-11eb-9ee8-658e4b49b506.gif)
+![KakaoTalk_20210615_145554833_02](https://user-images.githubusercontent.com/76672819/122010150-c9b9a300-cdf5-11eb-8dba-8b65e2e16753.gif) ![KakaoTalk_20210615_145554833](https://user-images.githubusercontent.com/76672819/122010137-c7574900-cdf5-11eb-9ee8-658e4b49b506.gif)
+
 ![KakaoTalk_20210615_145554833_01](https://user-images.githubusercontent.com/76672819/122010145-c9210c80-cdf5-11eb-92b8-4d5be332a89e.gif)
-![KakaoTalk_20210615_145554833_02](https://user-images.githubusercontent.com/76672819/122010150-c9b9a300-cdf5-11eb-8dba-8b65e2e16753.gif)
+
 
 
 ## Animeface generate
