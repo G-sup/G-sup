@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 
 
+
 ## Animeface generate
 ### DCGAN
 #### Anime face generator
