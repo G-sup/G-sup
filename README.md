@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/76672819/120737992-09e17180-c52a-11eb-8c66-ed3cc278b6f0.png)
 
 ### STAYLEGAN 2 ADA
-
+#### Anime face generator
 ![fakes007000](https://user-images.githubusercontent.com/76672819/140838375-4efc34ef-c48c-497b-9114-3834cc078f11.png)
 
 #### Tensorflow Certificate
