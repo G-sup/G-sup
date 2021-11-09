@@ -59,6 +59,10 @@ Here are some ideas to get you started:
 #### Anime face generator
 ![image](https://user-images.githubusercontent.com/76672819/120737992-09e17180-c52a-11eb-8c66-ed3cc278b6f0.png)
 
+### STAYLEGAN 2 ADA
+
+![fakes007000](https://user-images.githubusercontent.com/76672819/140838375-4efc34ef-c48c-497b-9114-3834cc078f11.png)
+
 #### Tensorflow Certificate
 [![Tensorflow Badge](http://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/30937809)
 #### Contact me
@@ -72,4 +76,5 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FG-sup&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
 
